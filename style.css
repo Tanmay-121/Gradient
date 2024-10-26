@@ -1,0 +1,13 @@
+#grad1 {
+    height: 300px;
+    width: auto;
+
+    background-image: linear-gradient(to top left, #58a7b0, #6192cf, #99a5cf, #bb99cf, #ed8ecc );
+}
+
+#grad2 {
+    height: 300px;
+    width: auto;
+
+    background-image: radial-gradient( #456cee, #5779eb, #404dde, #607eeb, #3ba0f3);
+}
